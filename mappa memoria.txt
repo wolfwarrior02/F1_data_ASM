@@ -1,0 +1,25 @@
+eax	pilota
+ebx	indirizzo pilota19
+ecx	inc
+edx	
+	dh	0
+	dl	lettera pilota19
+
+
+esi	contenuto input
+edi	contenuto output
+
+
+id:	numero id pilota
+
+
+
+
+- ciclo che prende il valore eeehmm della velocità 			<
+- ciclo che prende il valore ehmm dell'RPM				<
+- ciclo che prende il valoreee di bum bum bum della temperatura		<
+- converto tutti questi sopra con atoi					<
+- calcolo i vari livelli						<
+- calcolo le cose della media (somma e contatore)
+- stampa riga con tempo e i vari livelli				<
+- stampa ultima riga
